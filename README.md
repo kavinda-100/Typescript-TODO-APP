@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + TaiwindCss TODO APP
+# React + TypeScript + Vite + Tailwindcss TODO APP
 
 
 
